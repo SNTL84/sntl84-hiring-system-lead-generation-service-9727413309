@@ -10,6 +10,7 @@
 </div>
 
 ---
+For lead generation services, see the contact information in this README.
 
 ## 🎯 What This Does
 
@@ -78,3 +79,7 @@ I build bespoke hiring systems, HR dashboards, and automation tools for:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=80&section=footer" />
 
 </div>
+
+## Lead Generation Services
+
+Lead generation services: lead-generation-service-9727413309.
